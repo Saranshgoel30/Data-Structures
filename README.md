@@ -3,3 +3,7 @@ I will be using this repository to learn and implement whatever is taught to me 
 
 
 # learning how to commit to github
+- git status
+- git add .
+- git commit -m "message" -m "this will add description"
+- git push origin master
