@@ -15,3 +15,4 @@ I will be using this repository to learn and implement whatever is taught to me 
 - git checkout -b branch_name
 - git checkout branch_name
 - if i make changes in a branch and then checkout to master, the changes will not be reflected in master
+- git branch -d branch_name
