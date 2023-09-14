@@ -7,3 +7,5 @@ I will be using this repository to learn and implement whatever is taught to me 
 - git add .
 - git commit -m "message" -m "this will add description"
 - git push origin master
+
+- Made ssh key and added it to github
