@@ -12,6 +12,8 @@ I will be using this repository to learn and implement whatever is taught to me 
 
 # Branching
 - git branch
-- git checkout -b branch_name
-- git checkout branch_name
-- git diff branch_name
+- git checkout -b branch_name (to create a new branch and checkout to it)
+- git checkout branch_name (to checkout to an existing branch)
+- git diff branch_name (to see the difference between the two branches)
+- if i make changes in a branch and then checkout to master, the changes will not be reflected in master (unless i merge the branches)
+- git branch -d branch_name (to delete a branch)
