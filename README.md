@@ -9,3 +9,9 @@ I will be using this repository to learn and implement whatever is taught to me 
 - git push origin master
 
 - Made ssh key and added it to github
+
+# Branching
+- git branch
+- git checkout -b branch_name
+- git checkout branch_name
+- git diff branch_name
