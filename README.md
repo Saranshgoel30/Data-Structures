@@ -17,3 +17,7 @@ I will be using this repository to learn and implement whatever is taught to me 
 - git diff branch_name (to see the difference between the two branches)
 - if i make changes in a branch and then checkout to master, the changes will not be reflected in master (unless i merge the branches)
 - git branch -d branch_name (to delete a branch)
+
+# resetting
+- git reset HEAD~# (to reset to the last commit) (# is the number of commits you want to go back)
+
